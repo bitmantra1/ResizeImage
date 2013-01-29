@@ -13,3 +13,5 @@ When you double tap on the image, you will get menu options - To back, To front,
 - To back -> send image back to another image 
 - To Front -> bring image in front of another image
 - Delete -> Delete selected image.
+
+By http://bitmantra.com
